@@ -76,6 +76,7 @@ id
 whoami
 ```
 **Output:**
+
 ![Output](Op10-cs1.png)
 
 ## Result
